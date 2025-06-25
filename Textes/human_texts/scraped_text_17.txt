@@ -1,0 +1,53 @@
+Selected anniversaries / On this day archive
+
+It is now 11:27 on Friday, November 15, 2024 (UTC)|Purge cache for this page
+
+This set of pages serves as a queue of selected anniversaries which populate the section of the Main Page each day. These pages also help facilitate and coordinate updates to this queue. The selected nuts are taken from events in history on each day of the year and holidays/observances from current lunar-based calendars including Jewish and Islamic, and others.
+
+Editors can contribute to the Selected Anniversaries project in three main ways:
+
+A list of events and images can be viewed by expanding the 'staging area' on the project page for each day, for example Wikipedia:Selected anniversaries/January 1 (the staging area is not visible when transcluded onto another page, including the Main Page, due to <noinclude></noinclude> tags). Some of these items (the 'eligible' section) are rotated in and out from year to year to form the group that is chosen for the "On this day" section on the Main Page for that day of the year. Other items are listed as 'ineligible' because the event and/or its selected article (boldfaced link) do not pass the selected anniversaries criteria (see below). Making improvements (as described in the section above) so that these entries become eligible is one of the valuable ways editors can contribute to the project.
+
+To report an error you noticed on the current main page or tomorrow's main page, please add it to the appropriate section on Wikipedia:Main Page/Errors. For other dates, please start a new discussion at Wikipedia Talk:Selected anniversaries. 
+
+Admins: If the need arises to remove visible items from a page while it is on the Main Page, please move the items into the 'staging area' if possible, instead of outright deleting them, so they can prospectively be used again in the future.
+
+
+
+Be bold while improving this queue but please make sure you follow the selected anniversaries criteria below. Important: although anniversary listings on individual date articles are written in present tense, these selected anniversary listings should be written in past tense to help distinguish them from current events in "In the news" when displayed on the Main Page. A single sentence for each entry is preferable and the link to the selected article should be boldfaced.
+
+
+
+The criteria for inclusion in the selected anniversaries project pages are subjective due to the fact that any given day of the year can have a great many historical events worthy of listing; relative article quality along with the mix of topics already listed are considered when building OTD sets for each day. Criteria for eligibility are at least:
+
+Ideally, any particular selected article should only be included as a boldfaced item once in the project pages. To help make sure articles are not selected (boldfaced item) more than once, check the links to that article and examine all the pages listed that begin with Wikipedia:Selected anniversaries/. There is no limit to the number of times an article can be incidentally linked in the project pages (this includes all the non-boldfaced links). Exceptions can be made when any given day is short for eligible articles and the only suitable article already is featured on a different day. In those cases, those articles still should not be selected more than once in the year (i.e., if an article is eligible for inclusion on multiple days, then it should only make one OTD appearance per year). This rule does not apply to holidays/observances, because the same holiday may be celebrated on different dates in different countries, and country articles, because they may be the boldfaced item for holidays such as an Independence Day if the nation's observance doesn't have its own article.
+
+Please note, entries are written in the past tense, preferably in a single sentence.
+
+Images associated with the events can be listed on the project pages for each day. The following criteria apply to images:
+
+Image code: {{main page image|File:Example.svg|This is an example}} (see Template:Main page image for complete documentation).
+
+The visible section of the selected anniversaries pages automatically rotates onto the Main Page each day to populate the "On this day" section. There is maintenance needed before each page appears which follow these guidelines:
+
+Generally speaking, please apply the guidelines in the following order to determine which items to include:
+
+However, there are times when several of these will come into conflict with each other. For example, on one day in one year, we might have three items that are having their 70th, 75th, and 80th anniversaries respectively, which conflicts with the guideline for chronological diversity. In these cases, please use your best judgement as to how to balance them. So in this hypothetical scenario, maybe one of the three items also featured last year, so you could leave that one out this year. Or maybe two of items are battles in the same war (or two are in the same country), so you could omit the one that appeared more recently. Unfortunately, there is no algorithm that will guarantee that we always have an ideal set of blurbs, so a compromise will have to be made somewhere. As long as you make a carefully considered decision, it will be fine.
+
+Wikipedia:Selected anniversaries/today links to a page showing today's selected anniversaries.
+
+November 15
+
+November 16
+
+Selected anniversaries / On this day archive
+
+It is now 11:27 on Friday, November 15, 2024 (UTC)|Purge cache for this page
+
+Selected anniversaries / On this day archive
+
+It is now 11:27 on Friday, November 15, 2024 (UTC)|Purge cache for this page
+
+All queries use 28 November but the date can be modified when the page opens:
+
+The following return only articles assessed as FAs or GAs:

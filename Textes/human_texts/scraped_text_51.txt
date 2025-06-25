@@ -1,0 +1,20 @@
+If you have a question related to the Main Page, please search the talk page archives first to check if it has previously been addressed:
+001 002 003 004 005 006 007 008 009
+010 011 012 013 014 015 016 017 018 019 020 021 022 023 024 025 026 027 028 029 030 031 032 033 034 035 036 037 038 039 040 041 042 043 044 045 046 047 048 049 050 051 052 053 054 055 056 057 058 059 060 061 062 063 064 065 066 067 068 069 070 071 072 073 074 075 076 077 078 079 080 081 082 083 084 085 086 087 088 089 090 091 092 093 094 095 096 097 098 099
+100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207
+
+
+
+To report an error in content currently or imminently on the Main Page, use the appropriate section below.
+
+
+It's not urgent, but I think the 2024 Mauritian general election item can be removed now (it's been a week since the election). This would improve the main page's balance on my (widescreen) monitor. jlwoodwa (talk) 05:11, 17 November 2024 (UTC)[reply]
+
+In the article, this is presented less strongly, as "according to one story...". Given that Trotsky only spent a few months in the Bronx, and the overall story doesn't do great on a general "sniff test", I don't think it can be presented as hard fact in the DYK hook. Rubenstein places quote marks around the anecdote, but I can't see any citation. The ultimate source seems to be the cited Esquirearticle. We also have a possible CLOP issue here: the article has Trotsky refused to tip after eating as a matter of principle, insisting that "tipping was demeaning to the dignity of a workingman, and that a person should get a regular salary, enough to live on, and not have to depend on tips". For the same reason, he tried to persuade other customers to refuse to tip as well, while the Rubenstein source has As a matter of principle, he refused to leave a tip himself and would harangue other customers to do the same, with the quote elsewhere in the paragraph.. UndercoverClassicist T·C 15:24, 17 November 2024 (UTC)[reply]
+
+"1894 – H. H. Holmes (pictured), one of the first modern serial killers, was arrested in Boston after killing at least nine people."
+There is no mention in the article text of him being the the "first modern serial killer" and there is a whole paragraph that argues against him being a serial killer at all (in the sense he had regular motives for the murders rather than killing for the sake of killing).  I am also not clear on how the body count has been built up, the infobox says 1 confirmed victim and 9 suspected (uncited) but there are 5 people listed in the article under "presumed murders" and 11 under "suspected murders" as well as others in other sections.  The article's a bit of a mess really and some of the citations are to unreliable sources such as blogs and history.com - Dumelow (talk) 09:39, 17 November 2024 (UTC)[reply]
+
+Could we add World Prematurity Day for November 17? The article looks ok. Brandmeistertalk 15:44, 17 November 2024 (UTC)[reply]
+
+I think that the wording of the summary should be changed. The current phrasing (The European bison (Bison bonasus), also known as the wisent, is a mammal in the family Bovidae, one of two extant species of bison.) implies that Bovidae is a species of bison, when Bovidae is actually the family of cloven-hoofed ruminants (including cattle, bison, sheep, goats, etc). The species in this case is Bison bonasus. Di (they-them) (talk) 11:25, 17 November 2024 (UTC)[reply]
